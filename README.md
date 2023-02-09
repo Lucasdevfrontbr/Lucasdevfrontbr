@@ -1,6 +1,6 @@
 ### Olá! me chamo Lucas 👋
 
-- 📚 Estudando tecnologias para desenvolvimento web como Html ,Css, Javascript, Vue, React, node e express.
+- 📚 Estudando tecnologias para desenvolvimento web como Html ,Css, Javascript, TypeScript, Vue, React, node, express e Java.
 - 📫 Email: lucasfrontdev@gmail.com
 - 💻 Linkedin: linkedin.com/in/lucas-paulinodev
 
@@ -16,4 +16,8 @@
   <img align="left"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
    <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img  align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img  align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
+          
 </div>
