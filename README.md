@@ -1,6 +1,6 @@
 ### Olá! me chamo Lucas 👋
 
-- 📚 Estudando tecnologias para desenvolvimento web como Html ,Css, Javascript, TypeScript, Vue, React, node, express e Java.
+- 📚 Estudando tecnologias para desenvolvimento web como Html ,Css, Javascript, TypeScript, Vue, React, node e express.
 - 📫 Email: lucasfrontdev@gmail.com
 - 💻 Linkedin: linkedin.com/in/lucas-paulinodev
 
