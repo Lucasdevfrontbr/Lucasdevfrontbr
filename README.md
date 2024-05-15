@@ -1,6 +1,6 @@
 ### Olá! me chamo Lucas 👋
 
-- 📚 Estudando linguagens e tecnologias Para desenvolvimento de software.
+- 📚 Estudando linguagens e tecnologias Para desenvolvimento de software e Analise de dados.
 - 📫 Email: lucasfrontdev@gmail.com
 - 💻 Linkedin: linkedin.com/in/lucas-paulinodev
 
